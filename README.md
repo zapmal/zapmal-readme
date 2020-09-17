@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![I like to build cool stuff](https://prnt.sc/uj3oln)
 <!--
 **Zondazx/Zondazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
