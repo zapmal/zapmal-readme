@@ -1,4 +1,4 @@
-![I like to build cool stuff](https://imgur.com/a/Hx87jow)
+![I like to build cool stuff](https://i.imgur.com/YvgjKFF.png)
 <!--
 **Zondazx/Zondazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
