@@ -13,7 +13,7 @@
     - Node.js.
     - GraphQL.
     - Cloud Computing. 
-    - Coupled with a bunch of other bit more advanced stuff.
+    - Coupled with a bunch of other a bit more advanced stuff.
 - 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: I enjoy, and frequently do: design, chess, and science / medicine research.
 
