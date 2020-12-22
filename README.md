@@ -7,7 +7,13 @@
 
 ## I'm a Cross-Disciplinary Computer Science student and Developer 💻 
 
-- 🌱 Currently learning React, Node.js, GraphQL, and Cloud Computing. Coupled with a bunch of other stuff.
+- 🌱 Currently learning: 
+    - React.
+    - TailwindCSS.
+    - Node.js.
+    - GraphQL.
+    - Cloud Computing. 
+    - Coupled with a bunch of other bit more advanced stuff.
 - 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: I enjoy, and frequently do: design, chess, and science / medicine research.
 
@@ -38,10 +44,11 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
 <img align="left" alt="TypeScript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />
 
 <br />
 
-### Tech I'm interested in 👀 
+### Tech I'm interested in 👀: 
 
 <br />
 <br />
