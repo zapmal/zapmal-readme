@@ -15,7 +15,11 @@
     - Cloud Computing. 
     - Coupled with a bunch of other a bit more advanced stuff.
 - 👯 Thinking about collaborating to Open Source projects.
-- ⚡ Fun fact: I enjoy, and frequently do: design, chess, and science / medicine research and only recently started using GitHub!
+- ⚡ Fun facts: I enjoy, and frequently do: 
+    - Design. 
+    - Chess. 
+    - Science / medicine research.
+    - Recently started using GitHub 😅
 
 ### Contact me 📧:
 - [Twitter](https://twitter.com/MazZgrey)
