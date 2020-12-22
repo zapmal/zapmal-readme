@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there! I'm Manuel 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/MazZGrey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MazZGrey&screen_name=MazZGrey)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MazZgrey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MazZGrey&screen_name=MazZgrey)
 
 ## I'm a Cross-Disciplinary Computer Science student and Developer 💻 
 
