@@ -5,19 +5,17 @@
 ### Hi there! I'm Manuel 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/MazZGrey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MazZGrey&screen_name=codeSTACKr)
 
-## I'm a Computer Science student, Developer and Cross-Disciplinary learner.
+## I'm a Cross-Disciplinary Computer Science student and Developer 💻 
 
 - 🌱 Currently learning React, Node.js, GraphQL, and Cloud Computing. Coupled with a bunch of other stuff.
 - 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: I enjoy, and frequently do: design, chess, and science / medicine research.
 
-### Contact me:
+### Contact me 📧:
 - [Twitter](https://twitter.com/MazZgrey)
 - [Gmail](mailto:mzxgd16@gmail.com)
-- [Protonmail](mailto:malejz@protonmail.com)
-- [Discord](https://discord.com/): Zondazx#8445
 
-### Languages and Tools:
+### Languages and Tools 🚀:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -38,6 +36,12 @@
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/767px-Vimlogo.svg.png"/>
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Dangerous_things_we_should_not_do_in_linux.png"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
+<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
+<img align="left" alt="TypeScript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
+
+<br />
+
+### Tech I'm interested in 👀 
 
 <br />
 <br />
