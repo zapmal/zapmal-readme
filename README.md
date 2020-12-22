@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there! I'm Manuel 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/MazZGrey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MazZGrey&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MazZGrey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MazZGrey&screen_name=MazZGrey)
 
 ## I'm a Cross-Disciplinary Computer Science student and Developer 💻 
 
@@ -15,7 +15,7 @@
     - Cloud Computing. 
     - Coupled with a bunch of other a bit more advanced stuff.
 - 👯 Thinking about collaborating to Open Source projects.
-- ⚡ Fun fact: I enjoy, and frequently do: design, chess, and science / medicine research.
+- ⚡ Fun fact: I enjoy, and frequently do: design, chess, and science / medicine research and only recently started using GitHub!
 
 ### Contact me 📧:
 - [Twitter](https://twitter.com/MazZgrey)
