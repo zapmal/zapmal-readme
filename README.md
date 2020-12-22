@@ -57,7 +57,9 @@
 <img align="left" alt="Golang" width="30px" src="https://yourbasic.org/golang/square-gopher.png" />
 <img align="left" alt="React Native" width="60px" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" />
 <img align="left" alt="Flutter & Dart" width="50px" src="https://venturebeat.com/wp-content/uploads/2019/09/google-dart-flutter.png?w=1200&strip=all" />
-
+<img align="left" alt="Elixir" width="30px" src="https://images.squarespace-cdn.com/content/v1/5896a205d1758e289948f9b0/1528614013142-LIJHDYXK47AKG7G4OAYJ/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/ElixirIcon.png?format=1000w" />
+<img align="left" alt="Phoenix Framework" width="30px" src="https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" />
+<img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 
 <br />
 <br />
