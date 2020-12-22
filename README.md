@@ -8,7 +8,7 @@
 ## I'm a Computer Science student, Developer and Cross-Disciplinary learner.
 
 - 🌱 Currently learning React, Node.js, GraphQL, and Cloud Computing. Coupled with a bunch of other stuff.
-- 👯 Thinking about collaborating to Open Source projects that I frequently use.
+- 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: I enjoy, and frequently do: design, chess, and science / medicine research.
 
 ### Contact me:
