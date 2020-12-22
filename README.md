@@ -46,6 +46,11 @@
 <img align="left" alt="TypeScript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />
 
+<br />
+<br />
+<br />
+
+
 ### Tech I'm interested in 👀: 
 
 <img align="left" alt="Amazon Web Services" width="26px" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" />
