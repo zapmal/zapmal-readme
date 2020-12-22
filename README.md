@@ -55,6 +55,7 @@
 <img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/>
 <img align="left" alt="Golang" width="30px" src="https://yourbasic.org/golang/square-gopher.png" />
 <img align="left" alt="React Native" width="60px" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" />
+<img align="left" alt="Flutter & Dart" width="50px" src="https://venturebeat.com/wp-content/uploads/2019/09/google-dart-flutter.png?w=1200&strip=all" />
 
 
 <br />
