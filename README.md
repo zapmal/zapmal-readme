@@ -51,5 +51,11 @@
 
 ### Tech I'm interested in 👀: 
 
+<img align="left" alt="Amazon Web Services" width="26px" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" />
+<img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/>
+<img align="left" alt="Golang" width="30px" src="https://yourbasic.org/golang/square-gopher.png" />
+<img align="left" alt="React Native" width="60px" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" />
+
+
 <br />
 <br />
