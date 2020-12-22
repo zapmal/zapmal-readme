@@ -15,7 +15,7 @@
     - Cloud Computing. 
     - Coupled with a bunch of other a bit more advanced stuff.
 - 👯 Thinking about collaborating to Open Source projects.
-- ⚡ Fun fact: Just recently started using GitHub 😅
+- ⚡ Fun fact: Just recently started using GitHub frequently 😅
 
 ### Contact me 📧:
 - [Twitter](https://twitter.com/MazZgrey)
