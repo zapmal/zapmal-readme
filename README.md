@@ -56,13 +56,14 @@
 <img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/>
 <img align="left" alt="Golang" width="30px" src="https://yourbasic.org/golang/square-gopher.png" />
 <img align="left" alt="React Native" width="60px" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" />
-<img align="left" alt="Flutter" width="26px" src="https://images.squarespace-cdn.com/content/v1/5bfc5934c3c16a56bb3901a5/1568640133270-XGZT52LUG3TL9D2H920S/ke17ZwdGBToddI8pDm48kIgRpYENPbkaghby3smhCp0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2YqdCdLvK7fytvagwPTjsXw7iues1pY49-o6QiSMDQ5IKMshLAGzx4R3EDFOm1kBS/logo_flutter_1080px_clr.png?format=500w" />
-<img align="left" alt="Dart" width="50px" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" />
+<img align="left" alt="Flutter" width="22px" src="https://images.squarespace-cdn.com/content/v1/5bfc5934c3c16a56bb3901a5/1568640133270-XGZT52LUG3TL9D2H920S/ke17ZwdGBToddI8pDm48kIgRpYENPbkaghby3smhCp0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2YqdCdLvK7fytvagwPTjsXw7iues1pY49-o6QiSMDQ5IKMshLAGzx4R3EDFOm1kBS/logo_flutter_1080px_clr.png?format=500w" />
+<img align="left" alt="Dart" width="50px" src="https://miro.medium.com/max/480/0*JWyRX0OvflgVHFUF" />
 <img align="left" alt="Elixir" width="30px" src="https://images.squarespace-cdn.com/content/v1/5896a205d1758e289948f9b0/1528614013142-LIJHDYXK47AKG7G4OAYJ/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/ElixirIcon.png?format=1000w" />
 <img align="left" alt="Phoenix Framework" width="30px" src="https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" />
 <img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" alt="WASM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://lh3.googleusercontent.com/proxy/ZGCJwSDRz0HQI0cK-w5OaIqc-YkkujD5H52ZRSd4SerHMunwCHpGOZpMAEpFK-YtBGDUqs3IQlxN2WjSNF-P1YcEIxLfm505ikXbZ6s7JE_R" />
+<img align="left" alt="Kubernetes" width="56px" src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" />
 
 <br />
 <br />
