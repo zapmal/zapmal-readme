@@ -60,6 +60,7 @@
 <img align="left" alt="Elixir" width="30px" src="https://images.squarespace-cdn.com/content/v1/5896a205d1758e289948f9b0/1528614013142-LIJHDYXK47AKG7G4OAYJ/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/ElixirIcon.png?format=1000w" />
 <img align="left" alt="Phoenix Framework" width="30px" src="https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" />
 <img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" alt="WASM" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" />
 
 <br />
 <br />
