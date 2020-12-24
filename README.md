@@ -62,7 +62,7 @@
 <img align="left" alt="Phoenix Framework" width="30px" src="https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" />
 <img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" alt="WASM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://lh3.googleusercontent.com/proxy/ZGCJwSDRz0HQI0cK-w5OaIqc-YkkujD5H52ZRSd4SerHMunwCHpGOZpMAEpFK-YtBGDUqs3IQlxN2WjSNF-P1YcEIxLfm505ikXbZ6s7JE_R" />
+<img align="left" alt="Python" width="55px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_wordmark.png" />
 <img align="left" alt="Kubernetes" width="56px" src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" />
 
 <br />
