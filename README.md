@@ -61,9 +61,11 @@
 <img align="left" alt="Elixir" width="30px" src="https://images.squarespace-cdn.com/content/v1/5896a205d1758e289948f9b0/1528614013142-LIJHDYXK47AKG7G4OAYJ/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/ElixirIcon.png?format=1000w" />
 <img align="left" alt="Phoenix Framework" width="30px" src="https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" />
 <img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
-<img align="left" alt="WASM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" />
+<img align="left" alt="WASM" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" />
 <img align="left" alt="Python" width="55px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_wordmark.png" />
-<img align="left" alt="Kubernetes" width="56px" src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" />
+<img align="left" alt="Kubernetes" width="55px" src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" />
+<img align="left" alt="Svelte" width="30px" src="https://miro.medium.com/max/800/1*YwhNJXizPs__GeqoivtbYg.png" />
+<img align="left" alt="NextJS" width="40px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" />
 
 <br />
 <br />
