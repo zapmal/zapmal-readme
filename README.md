@@ -3,7 +3,7 @@
 
 My name is Manuel, and I'm a Cross-Disciplinary Computer Science student and Developer.
 
-I enjoy solving hard and —sometimes— exciting problems. I like ambiguity and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
+I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
 
 ### Some facts 💻 
 
