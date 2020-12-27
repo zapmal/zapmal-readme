@@ -15,7 +15,7 @@ I find joy in ambiguity and feel more engaged when working on problems that can'
     - Cloud Computing. 
     - Coupled with a bunch of other a bit more advanced (and domain-specific) stuff.
 - 👯 Thinking about collaborating to Open Source projects.
-- ⚡ Fun fact: Just started using GitHub frequently 😅
+- ⚡ Fun fact: I enjoy algorithms and data structures.
 
 ### Contact me 📧
 - [Twitter](https://twitter.com/MazZgrey)
