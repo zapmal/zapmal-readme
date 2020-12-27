@@ -46,8 +46,6 @@ I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and
 <img align="left" alt="TypeScript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />
 
-<br />
-<br />
 
 
 ### Tech I'm interested in 👀
