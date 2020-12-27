@@ -1,11 +1,11 @@
 
-### Hey! 👋
+## Hey! 👋
 
 My name is Manuel, and I'm a Cross-Disciplinary Computer Science student and Developer.
 
 I find joy in ambiguity and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
 
-## Some facts 💻 
+### Some facts 💻 
 
 - 🌱 Currently learning:
     - React.
@@ -17,11 +17,11 @@ I find joy in ambiguity and feel more engaged when working on problems that can'
 - 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: Just started using GitHub frequently 😅
 
-### Contact me 📧:
+### Contact me 📧
 - [Twitter](https://twitter.com/MazZgrey)
 - [Gmail](mailto:mzxgd16@gmail.com)
 
-### Languages and Tools 🚀:
+### Languages and Tools 🚀
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -50,7 +50,7 @@ I find joy in ambiguity and feel more engaged when working on problems that can'
 <br />
 
 
-### Tech I'm interested in 👀: 
+### Tech I'm interested in 👀
 
 <img align="left" alt="Amazon Web Services" width="26px" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" />
 <img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/>
