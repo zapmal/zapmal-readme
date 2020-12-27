@@ -1,11 +1,11 @@
-<p align="center">
-  <img width="850" height="400" src="https://i.imgur.com/YvgjKFF.png">
-</p>
 
-### Hi there! I'm Manuel 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/MazZgrey?color=1DA1F2&logo=twitter&style=for-the-badge)](hhttps://twitter.com/intent/follow?screen_name=MazZgrey)
+### Hey! 👋
 
-## I'm a Cross-Disciplinary Computer Science student and Developer 💻 
+My name is Manuel, and I'm a Cross-Disciplinary Computer Science student and Developer.
+
+I find joy in ambiguity and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
+
+## Some facts 💻 
 
 - 🌱 Currently learning: 
     - React.
