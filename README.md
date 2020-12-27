@@ -7,13 +7,13 @@ I find joy in ambiguity and feel more engaged when working on problems that can'
 
 ## Some facts 💻 
 
-- 🌱 Currently learning: 
+- 🌱 Currently learning:
     - React.
     - TailwindCSS.
     - Node.js.
     - GraphQL.
     - Cloud Computing. 
-    - Coupled with a bunch of other a bit more advanced stuff.
+    - Coupled with a bunch of other a bit more advanced (and domain-specific) stuff.
 - 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: Just started using GitHub frequently 😅
 
