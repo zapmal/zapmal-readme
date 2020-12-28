@@ -14,7 +14,7 @@ I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and
     - Cloud Computing. 
     - Coupled with a bunch of other a bit more advanced (and domain-specific) stuff.
 - 👯 Thinking about collaborating to Open Source projects.
-- ⚡ Fun fact: I enjoy algorithms and data structures.
+- ⚡ Fun fact: I like algorithms, data structures. 😅
 
 ### Contact me 📧
 - [Twitter](https://twitter.com/MazZgrey)
