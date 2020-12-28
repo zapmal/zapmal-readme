@@ -1,4 +1,3 @@
-
 ## Hey! 👋
 
 My name is Manuel, and I'm a Computer Science student and Developer.
