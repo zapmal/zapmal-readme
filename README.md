@@ -16,9 +16,8 @@ I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and
 - 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: I like algorithms and data structures. 😅
 
-### Contact me 📧
-- [Twitter](https://twitter.com/MazZgrey)
-- [Gmail](mailto:mzxgd16@gmail.com)
+### Contact 📧
+- You can find me in [Twitter](https://twitter.com/MazZgrey), or directly email me in [Gmail](mailto:mzxgd16@gmail.com 
 
 ### Languages and Tools 🚀
 
