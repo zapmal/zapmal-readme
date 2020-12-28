@@ -9,7 +9,6 @@ I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and
 
 - 🌱 Currently learning:
     - React.
-    - TailwindCSS.
     - Node.js.
     - GraphQL.
     - Cloud Computing. 
