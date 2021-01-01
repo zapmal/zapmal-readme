@@ -10,7 +10,7 @@ I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and
     - Node.js.
     - GraphQL.
     - Cloud Computing. 
-    - Coupled with a bunch of other a bit more advanced (and domain-specific) stuff.
+    - Coupled with a bunch of other a bit more advanced (and specific) stuff.
 - 👯 Thinking about collaborating to Open Source projects.
 - ⚡ Fun fact: I like algorithms and data structures. 😅
 
