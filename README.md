@@ -11,7 +11,7 @@ I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and
     - GraphQL.
     - Cloud Computing. 
     - Coupled with a bunch of other a bit more advanced (and specific) stuff.
-- 👯 Thinking about collaborating to Open Source projects.
+- 👯 Trying to collaborate in Open Source projects.
 - ⚡ Fun fact: I like algorithms and data structures. 😅
 
 ### Contact 📧
