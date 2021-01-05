@@ -3,7 +3,7 @@
 
 My name is Manuel, and I'm a Computer Science student and Developer.
 
-I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and feel more engaged when working on something that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
+I like solving exciting and —sometimes— hard problems. I enjoy learning and building new things, and also like the ambiguity that some problems have, I feel more engaged when working on something that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
 
 - 🌱 Currently learning:
     - React.
