@@ -3,7 +3,7 @@
 
 My name is Manuel, and I'm a Computer Science student and Developer.
 
-I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
+I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and feel more engaged when working on something that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers.
 
 - 🌱 Currently learning:
     - React.
@@ -16,7 +16,7 @@ I enjoy solving exciting and —sometimes— hard problems. I like ambiguity and
 
 ### Contact 📧
 
-You can find me in [Twitter](https://twitter.com/MazZgrey), or directly send me an [email](mailto:mzxgd16@gmail.com) if you prefer.
+You can find me on [Twitter](https://twitter.com/MazZgrey), or directly send me an [email](mailto:mzxgd16@gmail.com) if you prefer.
 
 ### Languages and Tools 🚀
 
