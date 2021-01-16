@@ -5,7 +5,7 @@ My name is Manuel, and I'm a Computer Science student and Developer.
 
 I like solving exciting and —sometimes— complex problems. I enjoy learning, be it new or old principles and technologies that I can apply in building new, usable software. I feel more engaged when working on something that can't be solved by merely searching the web or reading a book. Often the ambiguity of those problems is enjoyable. It's always great when I can collaborate with a team of like-minded engineers.
 
-- 🌱 Currently learning about Cloud Computing, coupled with other a bit more advanced stuff.
+- 🌱 Currently learning about Cloud Computing, coupled with other stuff I'm interested in 👀
 - 👯 Trying to collaborate in Open Source projects.
 - ⚡ Fun fact: I like algorithms and data structures. 😅
 
