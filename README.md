@@ -5,7 +5,7 @@ My name is Manuel, and I'm a Computer Science student and Developer.
 
 I like solving exciting and —sometimes— complex problems. I enjoy learning, be it new or old principles and technologies that I can apply in building new, usable software. I feel more engaged when working on something that can't be solved by merely searching the web or reading a book. Often the ambiguity of those problems is enjoyable. It's always great when I can collaborate with a team of like-minded engineers.
 
-- 🌱 Currently learning about Cloud Computing, coupled with other stuff I'm interested in 👀
+- 🌱 Currently learning about Cloud Computing and it's relatives. Coupled with other stuff I'm interested in. 👀
 - 👯 Trying to collaborate in Open Source projects.
 - ⚡ Fun fact: I like algorithms and data structures. 😅
 
@@ -38,6 +38,7 @@ You can find me on [Twitter](https://twitter.com/MazZgrey), or directly send me 
 <img align="left" alt="TypeScript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />
 <img align="left" alt="React Native" width="60px" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" />
+<img align="left" alt="C Sharp" width="40px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" />
 <img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 
 <br/>
