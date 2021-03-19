@@ -1,7 +1,7 @@
 
 ## Hey! 👋
 
-My name is Manuel, I'm a final year Computer Science student who also works as Web Dev.
+My name is Manuel, I'm a final year Computer Science student who also works as full-stack.
 
 I like solving exciting and —sometimes— complex problems. I enjoy learning, be it new or old principles and technologies that I can apply in building new, usable software. I feel more engaged when working on something that can't be solved by merely searching the web or reading a book. Often the ambiguity of those problems is enjoyable. It's always great when I can collaborate with a team of like-minded engineers.
 
