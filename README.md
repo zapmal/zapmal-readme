@@ -10,5 +10,3 @@ Currently, I'm learning Cloud Computing and RTC, coupled with other things that 
 ### Contact 📧
 
 You can find me on [Twitter](https://twitter.com/zapmal0), or directly send me an [email](mailto:mzxgd16@gmail.com) if you prefer.
-
-<br />
